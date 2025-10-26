@@ -1,11 +1,7 @@
-//Declaração de variavel
-idade = 22;
+var nome = "jose";
 
-//Imprimi mensagem no terminal
-console.log("Eu possuo " + idade + " anos");
+let sobrenome = "Felisbino";
 
-//Declaração de variavel
-idade = 23;
+const idade = 22;
 
-//Imprimi mensagem no terminal
-console.log("Ano que vem eu terei " + idade + " anos");
+console.log("Meu nome é " + nome + " " + sobrenome + " e tenho " + idade + " anos")
