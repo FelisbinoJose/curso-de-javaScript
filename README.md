@@ -10,3 +10,7 @@
 ### 26/10/2025 - [2a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/2a-aula)
 
 - Variáveis
+
+### 26/10/2025 - [3a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/3a-aula)
+
+- Formas difentes de criar variáveis
