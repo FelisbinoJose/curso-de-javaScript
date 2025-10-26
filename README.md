@@ -1,2 +1,4 @@
-# curso-de-javaScript
-Curso de JavaScript: aprendendo a programar - Alura - Vinicios Neves
+# Conteúdo aprendido
+
+- Uso do console log
+  - fora do navegador
