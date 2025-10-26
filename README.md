@@ -6,3 +6,7 @@
 
 - Apresentação do ambiente de desenvolvimento (VS CODE).
 - Uso do console log.
+
+### 26/10/2025 - [2a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/2a-aula)
+
+- Variáveis
