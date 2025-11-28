@@ -14,3 +14,7 @@
 ### 26/10/2025 - [3a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/3a-aula)
 
 - Formas difentes de criar variáveis
+
+### 27/11/2025 - [4a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/4a-aula)
+
+- Operadores
