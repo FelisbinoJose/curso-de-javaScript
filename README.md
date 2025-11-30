@@ -21,3 +21,9 @@
 - Menor: <
 - Maior igual: >=
 - Menor igual: <=
+
+## Combinando comparadores
+
+- AND: &&
+- OR: ||
+- Negação: !
