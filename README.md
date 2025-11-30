@@ -10,3 +10,14 @@
 - Resto da divisão = %
 - Incremento = ++
 - Decrimento = --
+
+## Operadores de comparação
+
+- Igualdade: ==
+- Diferença: !=
+- Igualdade restrita: ===
+- Diferença restita: !==
+- Maior: >
+- Menor: <
+- Maior igual: >=
+- Menor igual: <=
