@@ -1,9 +1,12 @@
-# Conteúdo aprendido
+# Operadores
 
-- Formas diferentes de declaração de variáveis;
+## Operadores ariméticos
 
-  - var: pode ser usada para a declaração variavel, antes de atribuição de valor a mesma.
-
-  - let: não pode ser usada para a declaração variavel, antes de atribuição de valor a mesma.
-
-  - const: valores atribuidos a variáveis dessa declaração, não podem ser alterados.
+- Subtração = -
+- Multiplicação = \*
+- Divisão = /
+- Soma = +
+- Pontencia = \*\*
+- Resto da divisão = %
+- Incremento = ++
+- Decrimento = --
