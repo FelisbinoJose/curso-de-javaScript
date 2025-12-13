@@ -18,3 +18,7 @@
 ### 27/11/2025 - [4a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/4a-aula)
 
 - Operadores
+
+### 13/12/2025 - [5a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/5a-aula)
+
+- Condições e fluxos.
