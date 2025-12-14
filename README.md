@@ -26,3 +26,7 @@
 ### 14/12/2025 - [6a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/6a-aula)
 
 - Laços, operadores e decisão.
+
+### 14/12/2025 - [7a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/7a-aula)
+
+- Funções.
