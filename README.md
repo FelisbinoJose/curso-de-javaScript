@@ -22,3 +22,7 @@
 ### 13/12/2025 - [5a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/5a-aula)
 
 - Condições e fluxos.
+
+### 14/12/2025 - [6a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/6a-aula)
+
+- Laços, operadores e decisão.
