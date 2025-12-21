@@ -9,4 +9,4 @@ console.log('Total de frutas:', frutas.length);
 frutas.push('Pera');
 
 console.log('Total de frutas depois de adicionado a Pera:', frutas.length);
-console.log('Ultima fruta:', frutas[frutas.length - 1]);
+console.log('Ultima fruta:', frutas[frutas.length - 1])
