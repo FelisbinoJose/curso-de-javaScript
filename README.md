@@ -30,3 +30,7 @@
 ### 14/12/2025 - [7a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/7a-aula)
 
 - Funções.
+
+### 21/12/2025 - [8a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/8a-aula)
+
+- Arrays.
