@@ -34,3 +34,7 @@
 ### 21/12/2025 - [8a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/8a-aula)
 
 - Arrays.
+
+### 23/12/2025 - [9a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/9a-aula)
+
+- Objetos.
