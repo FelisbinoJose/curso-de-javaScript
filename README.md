@@ -38,3 +38,7 @@
 ### 23/12/2025 - [9a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/9a-aula)
 
 - Objetos.
+
+### 23/12/2025 - [10a aula](https://github.com/FelisbinoJose/curso-de-javaScript/tree/10a-aula)
+
+- Fundamentos modernos do JavaScript.
